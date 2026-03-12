@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FF ABHISHEK TURNAMENT ",
+  "description": "A professional Free Fire tournament management system with wallet, referral, and admin dashboard features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
